@@ -1,0 +1,31 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/build/classes/lib/create-lab-commons-collections.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/classes/lib/create-lab-commons-util.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/classes/lib/terk-services.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/classes/lib/commons-lang3-3.3.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/classes/lib/commons-collections-3.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/classes/lib/create-lab-commons-audio.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/classes/lib/create-lab-commons-device.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/classes/lib/cmulex.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/classes/lib/terk-core.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/classes/lib/create-lab-commons-xml.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/classes/lib/en_us.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/classes/lib/hid4java.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/classes/lib/commons-lang-2.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/classes/lib/log4j-1.2.16.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/classes/lib/slf4j-nop-1.7.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/classes/lib/create-lab-commons-user-interface.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/classes/lib/freetts.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/classes/lib/swing-layout-1.0.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/classes/lib/cmu_us_kal.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/classes/lib/create-lab-commons-serial.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/classes/lib/commons-io-2.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/classes/lib/apache-log4j-extras-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/classes/lib/create-lab-commons-speech.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
